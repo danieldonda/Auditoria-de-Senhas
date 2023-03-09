@@ -1,6 +1,6 @@
 ﻿clear
 # Instalação o Directory Services Internals PowerShell Module and Framework - Desmarcar a linha abaixo,
-# Install-Module DSInternals -Force
+Install-Module DSInternals -Force
 
 # Declarações de variaveis 
 
